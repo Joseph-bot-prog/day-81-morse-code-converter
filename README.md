@@ -27,6 +27,8 @@ This project implements a Morse Code Converter in Python. The converter takes in
 ## Conclusions
 To conclude, I would thank my instructor for being such a wonderful teacher for coming up with a beautiful course. I would like to thank MYSELF for being self-motivated throughout the lecture.
 
+Date - 17th, Jan, 2024
+
 
 ## Author
 [Joseph Adariku]
