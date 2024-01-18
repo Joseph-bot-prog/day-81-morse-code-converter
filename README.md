@@ -1,13 +1,34 @@
-DAY 81
+# Day 81: Morse Code Converter with ASCII
 
-Today topic was ASCII it's simply a character encoding standard that assigns numerical values to letters and digits. Which was wonderfully explained by Angela Yu.
+## Overview
+This project implements a Morse Code Converter in Python. The converter takes input text in ASCII and translates it into Morse Code. It also supports the reverse operation, translating Morse Code into ASCII text.
 
-Project of the day
+## Features
+- Converts ASCII text to Morse Code
+- Converts Morse Code to ASCII text
+- Supports letters, numbers, and common punctuation
+- User-friendly interface
 
-A morse code converter using the above-mentioned topics. You can check out my code.
+## Usage
+1. Run the `morse_code_converter.py` script.
+2. Choose whether to convert ASCII to Morse Code or Morse Code to ASCII.
+3. Enter the input text accordingly.
+4. The converted result will be displayed.
 
-Conclusion
+## Implementation Details
+- The converter uses dictionaries to map characters to Morse Code and vice versa.
+- Handles both upper and lower case letters.
+- Supports numbers and common punctuation.
+- The user can choose the conversion direction.
 
-To conclude, I would thank my instructor for being such a wonderful teacher for coming up with a beautiful Coding pratical. I would like to thank MYSELF for being self-motivated into creating my codes.
+## Dependencies
+- Python 3.x
 
-Date - Jan, 17, 2024
+## Conclusions
+To conclude, I would thank my instructor for being such a wonderful teacher for coming up with a beautiful course. I would like to thank MYSELF for being self-motivated throughout the lecture.
+
+
+## Author
+[Joseph Adariku]
+
+
